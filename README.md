@@ -4,9 +4,9 @@ tenant [![](https://img.shields.io/badge/3.1.1-blue.svg)]()
 This is Spring Boot Project.（多租户设计，JPA自动建库建表）
 
 ## Table of Contents
-+ [Environment](https://github.com/loveisontheway/baobei#Environment)
-+ [Project](https://github.com/loveisontheway/baobei#Project)
-+ [Start](https://github.com/loveisontheway/baobei#Start)
++ [Environment](https://github.com/loveisontheway/tenant#Environment)
++ [Project](https://github.com/loveisontheway/tenant#Project)
++ [Start](https://github.com/loveisontheway/tenant#Start)
 
 ## Environment
 + `Java:` 17+
